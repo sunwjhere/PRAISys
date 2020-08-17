@@ -5,5 +5,5 @@ PRAISys is one of many products of a collaborative project sponsored by the Nati
 
 This product can be freely used for academic use only. Please cite the following reference whenever using this product.
 
--- The PRAISys Team. Probabilistic Resilience Assessment of Interdependent Systems. <http://www.praisys.org> 
+-- The PRAISys Team (2020). Probabilistic Resilience Assessment of Interdependent Systems. <http://www.praisys.org> 
  
