@@ -4,5 +4,6 @@ PRAISys stands for Probabilistic Resilience Assessment of Interdependent Systems
 PRAISys is one of many products of a collaborative project sponsored by the National Science Foundation (NSF) under grant CMMI-1541177 and grant CMMI-1541089. This collaborative project brings together a total of 55 scholars in Civil Engineering, Computer Science, Economics, Policy Making, Systems Engineering, and Urban Planning from three universities in the United States: Lehigh University, Florida Atlantic University, and Georgia Atlantic University. More details about this project can be found on the PRAISys website: http://www.praisys.org 
 
 This product can be freely used for academic use only. Please be sure to cite the following reference whenever using this product.
+
 The PRAISys Team. Probabilistic Resilience Assessment of Interdependent Systems. <http://www.praisys.org> 
  
