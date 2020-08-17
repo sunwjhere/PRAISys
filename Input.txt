@@ -1,0 +1,91 @@
+#----- Hazard Map Selection (1-earthquake, 2-hurricane, 3-flood)
+HazardMap 1 Hazard_ShakeMap_M5_2500year_LVvirtualLargerArea.mat
+
+#----- Active System Selection (0/1)
+Power 1 PowerPlants Substations Power_Line
+Communication 1 CentralOffices CommunicationTowers
+Transportation 1 RoadNode RoadLink Bridges TrafficLights
+
+#----- Direction of road link (1-directional, 0-not directional)
+TransportationLinkDirection 1 
+
+#----- Set up the input data of neighborhood community
+DataNeighbor Neighborhood
+
+#----- Turn ON(1)/OFF(0) the Sub-Component Analysis
+SubObject 0
+
+#----- Choose time_horizon
+TimeHorizon 196
+
+#----- Number of Damage Scenario Sample (Nsamples>0) and Number of Task Duration Sample per Damage Sample (NRun>0)
+Nsamples 2
+NRun 4
+
+#----- Turn ON(1)/OFF(0) True Random Sampling (1: Yes, using True-Random; 0: No, using Pseudo-Random instead, followed by a Random Seed when pseudo-randomness is turned on.)
+RandomChoice 0 123
+
+#----- Profile Selection for the Parallel Computing
+Profile_Num 0
+
+#----- Select a Scheduler Model to Develop the Restoration Plan:
+# Scheduler = 1-Priority,  Scheduler = 2-Optimization;
+# ReSchedule = 0(Turn ON Rescheduling), ReSchedule = 1(Turn OFF Rescheduling); Rescheduling uses the optimization scheduling scheme based on the OptimizationChoice.
+# OptimizationChoice = 1-OptimizationRCPCP_FT, 2-OptimizationRCPCP_ST, 3-OptimizationFlexible, 4-SubOptimizationRCPCP_FT, 5-SubOptimizationRCPCP_ST
+Scheduler 1
+ReSchedule 0
+OptimizationChoice 
+
+# Set up the Prioity Policy Criterion for Every System if the above Scheduler = 1:
+# priority_power: 0 for randomly, 1 for voltage, 2 for population served at component-level, 3 for number of household served at component-level 
+# priority_communciation: 0 for randomly, 1 for population served at component-level, 2 for number of household served at component-level 
+# priority_transportation: 0 for randomly, 1 for length, 2 for traffic volume
+Priority_power_num 1
+Priority_communication_num 2
+Priority_transportation_num 2
+
+#----- Rescheduling setting
+# Percentage of completed tasks for rescheduling, can be multiple numbers (0-1)
+# Num_stage: Time to reschedule (in days), can be multiple integer numbers (0,time_horizon)
+RescheduleAtPercentage 
+RescheduleAtTime 
+
+#----- The same time unit in Recovery(0: the default time unit of "day"; 1: the customized time unit, [hour, day, week, month])
+DifferentTimeUnit 0
+RestorationPhaseDay 3 28 168
+
+#----- Set up the users choices of decision strategies as different interdependency combinations
+#-- Turn on(1)/off(0) the Combined System Scheduling: 1=seperately (scheduling restoration tasks for every indiviual system), 0=together (scheduling restoration tasks for all systems together)
+Seperate_Scheduling 0
+
+#-- Turn on(1)/off(0) transport delaying factor due to major transportation functionality disruption (if turn on, the following 2 numbers are a.the delaying coefficient to multiply the task duration, b.Qtran0-the transportation functionality threshold, delaying in effect is Qtrans<Qtrans0)
+InterdependenceTransDelay 1 2 0.8
+
+#-- Turn on(1)/off(0) inter-system functionality dependency
+InterdependenceFunctionality 0
+
+#-- Turn on(1)/off(0) precedence dependency 
+InterdependencePrecedence 0
+
+#----- Metric Selection for System Functionality and Resilience
+# Functionality_Power = 1-Percentage of open substations, 2-Weighted network as substation voltage, 3-Percentage of population with Power Service at Neighbohood ends, OR properties from graph theory, including 4-Average degree, 5-Characteristic path length, 6-Network efficiency, 7-Clustering coefficient (closed neighborhood), 8-Local efficiency (closed neighborhood), 9-Clustering coefficient (open neighborhood), 10-Local efficiency (open neighborhood)
+# Functionality_Comm = 1-Percentage of open CommTower, 2-Weighted network with the equal weight of every CommTower, 3-Percentage of population with Comm Service at Neighbohood ends, OR properties from graph theory, including 4-Average degree, 5-Characteristic path length, Network efficiency, 7-Clustering coefficient (closed neighborhood), 8-Local efficiency (closed neighborhood), -9Clustering coefficient (open neighborhood), 10-Local efficiency (open neighborhood)
+# Functionality_Trans = 1-Percentage of open road segments, 2-Weighted network as the road (1)length/or(2)AADT/or(3)length*AADT, 3-Percentage of population with the road access at Neighbohood-level, OR properties from graph theory, including 4-Average degree, 5-Characteristic path length, 6-Network efficiency, 7-Clustering coefficient (closed neighborhood), 8-Local efficiency (closed neighborhood), 9-Clustering coefficient (open neighborhood), 10-Local efficiency (open neighborhood)  
+# Resilience Metric: 1-Resilience index, 2-Resilience loss, 3-Rapidity, 4-Restoration time
+Functionality_Power 1 2 3 4 5
+Functionality_Comm 1 2 3 4
+Functionality_Trans 1 2 3 4 5
+Resilience_Power 1 2 3 4
+Resilience_Comm 1 2 3 4
+Resilience_Trans 1 2 3 4
+
+# Resource Constraints for Every System
+Power_Resource 30 30 10 10
+Comm_Resource 80 80 20 20
+Trans_Resource 60 60 30 30
+
+# Probability of the presence of a Magic Battery for every component that originally uses the electricity from the Power system
+Prob_Magic_Battery 0.5
+
+ # Save all history results
+Save_history 0

@@ -1,0 +1,6 @@
+Branch ID,Branch Node 1,Branch Node 2,Voltage (kV),Tower Type
+1,PowerPlant,Substation1,500,H Frame
+2,PowerPlant,Substation2,230,Monopole
+3,Substation1,Substation5,230,Lattice
+4,Substation2,Substation3,230,Lattice
+5,Substation2,Substation4,138,Lattice

@@ -1,0 +1,4 @@
+Traffic Light ID,Icon,IconColor,IconHeading,Name,Link,Latitude,Longitude,Map Key #,District,County,Municipality,Municipality Type,Major Street,Major SR,Minor Street,Minor SR,Corridor Designation,Map View
+1,22,red,TL1,TL1,1,40.3,-74.3,39301117,5,VirtualCounty,VirtualMunicipality,City,SR 145,145,BROOKDALE,3rd st,Critical,"https://maps.google.com/maps?cbll=40.5818427,-75.4568698&cbp=12,20.09,,0,5&layer=c&output=classic&dg=brw"
+2,22,red,TL2,TL2,2,40.3,-74.3,39301117,5,VirtualCounty,VirtualMunicipality,City,SR 145,145,BROOKDALE,4th st,Critical,"https://maps.google.com/maps?cbll=40.5818427,-75.4568698&cbp=12,20.09,,0,5&layer=c&output=classic&dg=brw"
+3,22,red,TL3,TL3,7,40.3,-74.3,39301117,5,VirtualCounty,VirtualMunicipality,City,SR 145,145,BROOKDALE,5th st,Local,"https://maps.google.com/maps?cbll=40.5818427,-75.4568698&cbp=12,20.09,,0,5&layer=c&output=classic&dg=brw"

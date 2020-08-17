@@ -1,0 +1,9 @@
+Road Node ID,Latitude,Longitude,LineStringColor,Icon,IconColor,IconHeading,Name,County Code,Comment
+1,40.3,-74.5,,,,,RoadNode1,1,
+2,40.3,-74.3,,,,,RoadNode2,1,
+3,40.3,-74.1,,,,,RoadNode3,1,
+4,40.1,-74.5,,,,,RoadNode4,1,
+5,40.1,-74.1,,,,,RoadNode5,1,
+6,39.9,-74.5,,,,,RoadNode6,1,
+7,39.9,-74.3,,,,,RoadNode7,1,
+8,39.9,-74.1,,,,,RoadNode8,1,

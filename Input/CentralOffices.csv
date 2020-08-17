@@ -1,0 +1,4 @@
+Central office ID,Latitude,Longitude,Label,Company,Structural type,Height (m),Built year,Label,Address,TotalPop,TotalHH
+1,40.3,-74.3,CT1,TelecomVirtual,C2L,10,2000,CentralOffice1,,8000,4000
+2,39.9,-74.5,CT2,TelecomVirtual,S1L,12,1990,CentralOffice2,,9000,5000
+3,40.1,-74.1,CT3,TelecomVirtual,S1H,45,2000,CentralOffice3,,7000,3000

@@ -1,0 +1,2698 @@
+[Warning: Table variable names were modified to make them valid MATLAB
+identifiers. The original names are saved in the VariableDescriptions property.] 
+[Warning: Table variable names were modified to make them valid MATLAB
+identifiers. The original names are saved in the VariableDescriptions property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB
+identifiers. The original names are saved in the VariableDescriptions property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\MWE20200528_Youshan\MWE2.0\main.m', 23)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\MWE20200528_Youshan\MWE2.0\main.m',23,0)">line 23</a>)
+stopVariable = get(app.StopButton, 'Enable');
+} 
+opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\MWE20200528_Youshan\MWE2.0\main.m',23,0)
+
+ans =
+
+   149
+
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The
+original names are saved in the VariableDescriptions property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The
+original names are saved in the VariableDescriptions property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The
+original names are saved in the VariableDescriptions property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input File Error: Input priority_power_num is not recognized.
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input File Error: Input priority_power_num is not recognized.
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0 could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output could not be removed.
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input File Error: Input priority_power_num is not recognized.
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 23)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',23,0)">line 23</a>)
+stopVariable = get(app.StopButton, 'Enable');
+} 
+
+ans =
+
+   149
+
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt\Data_Functionality.txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0 could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output could not be removed.
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PRAISysUserInterface/RunButtonPushed', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp', 1300)" style="font-weight:bold">PRAISysUserInterface/RunButtonPushed</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp',1300,0)">line 1300</a>)
+                main(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+clear
+
+ans =
+
+   149
+
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+No directories were removed.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PRAISysUserInterface/RunButtonPushed', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp', 1300)" style="font-weight:bold">PRAISysUserInterface/RunButtonPushed</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp',1300,0)">line 1300</a>)
+                main(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+clear
+clc
+
+ans =
+
+   149
+
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+No directories were removed.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PRAISysUserInterface/RunButtonPushed', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp', 1300)" style="font-weight:bold">PRAISysUserInterface/RunButtonPushed</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp',1300,0)">line 1300</a>)
+                main(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt\Data_Functionality.txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0 could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output could not be removed.
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('PRAISysUserInterface/RunButtonPushed', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp', 1300)" style="font-weight:bold">PRAISysUserInterface/RunButtonPushed</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\PRAISysUserInterface.mlapp',1300,0)">line 1300</a>)
+                main(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 102)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',102,0)">line 102</a>)
+    stopVariable = get(app.StopButton, 'Enable');
+} 
+opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',102,0)
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 157)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',157,0)">line 157</a>)
+    stopVariable = get(app.StopButton, 'Enable');
+} 
+opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',157,0)
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt\Data_Functionality.txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0 could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output could not be removed.
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+} 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt\Data_Functionality.txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\txt could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0 could not be removed.
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output could not be removed.
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+} 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rmdir')" style="font-weight:bold">rmdir</a>
+H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output could not be removed.
+
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Input_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m', 769)" style="font-weight:bold">Input_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Input_Real.m',769,0)">line 769</a>)
+            rmdir Output s;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Data_Supplement_Real', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m', 13)" style="font-weight:bold">Data_Supplement_Real</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Data_Supplement_Real.m',13,0)">line 13</a>)
+run('Input_Real.m');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\SoftwareInstall\Matlab\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+evalin('caller', strcat(script, ';'));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 14)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',14,0)">line 14</a>)
+run('Data_Supplement_Real.m');
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+load('Data_DamageScenarioSample_1.mat', 'Total')
+isample
+
+isample =
+
+     1
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Function SampleDamage: Finish Sampling DamageSample #1----
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fprintf')" style="font-weight:bold">fprintf</a>
+Invalid file identifier. Use fopen to generate a valid file identifier.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Library.SaveLogDamage', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m', 7730)" style="font-weight:bold">Library.SaveLogDamage</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m',7730,0)">line 7730</a>)
+                fprintf(fileID,'\n');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Library.SampleDamage', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m', 273)" style="font-weight:bold">Library.SampleDamage</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m',273,0)">line 273</a>)
+                Library.SaveLogDamage(isample, SystemSetPower, SystemSetCommu, SystemSetTrans, Hostname);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 35)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',35,0)">line 35</a>)
+[GraphSystem,TotalDamage,RestorationTable,Nsystask] = Library.SampleDamage(EventType, Nsamples, NRun, Hostname, IM, IMx, IMy, ActiveSystem,
+powerGraph, commGraph, transGraph, Prob_Magic_Battery, SamplesUnifDmg, Seperate_Scheduling, InterdependencePrec);
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+load('Data_DamageScenarioSample_1.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+clear
+ckc
+{Undefined function or variable 'ckc'.
+} 
+clc
+load('DamageScenario.mat', 'TotalDamage')
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+clear
+load('DamageScenario.mat', 'TotalDamage')
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+clear
+load('DamageScenario.mat', 'TotalDamage')
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+if system_dependent('IsDebugMode')==1, dbstep; end
+clear
+load('DamageScenario.mat', 'TotalDamage')
+if system_dependent('IsDebugMode')==1, dbstep; end
+{Reference to a cleared variable Hostname.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Library.SampleDamage', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m', 288)" style="font-weight:bold">Library.SampleDamage</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m',288,0)">line 288</a>)
+            save(strcat( deblank(Hostname), '/mat/TaskTable.mat'), 'RestorationTable');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 35)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',35,0)">line 35</a>)
+[GraphSystem,TotalDamage,RestorationTable,Nsystask] = Library.SampleDamage(EventType, Nsamples, NRun, Hostname, IM, IMx, IMy, ActiveSystem,
+powerGraph, commGraph, transGraph, Prob_Magic_Battery, SamplesUnifDmg, Seperate_Scheduling, InterdependencePrec);
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+clear
+clc
+load('DamageScenario.mat', 'TotalDamage')
+load('Data_DamageScenarioSample_2.mat', 'Total')
+clear
+clc
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+td = TotalDamage
+
+td =
+
+  8×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {1×5 cell}
+    {1×5 cell}
+    {1×5 cell}
+    {1×5 cell}
+    {1×5 cell}
+    {1×5 cell}
+    {1×5 cell}
+    {1×5 cell}
+
+save(strcat( deblank(Hostname), '/mat/td.mat'), 'td');
+load('td.mat', 'td')
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+load('DamageScenario.mat', 'DamagedComponent')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP2: Complete Sampling Damage Scenarios----
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP3: Complete Developing Restoration Plans----
+load('DamageScenario.mat', 'DamagedComponent')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+clear
+clc
+load('DamageScenario.mat')
+clear
+clc
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+if system_dependent('IsDebugMode')==1, dbcont; end
+load('DamageScenario.mat', 'DamagedComponent')
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'TaskTable.mat' because 'Output\Results0\mat' does not exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Library.SampleDamage', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m', 290)" style="font-weight:bold">Library.SampleDamage</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Library.m',290,0)">line 290</a>)
+            save(strcat( deblank(Hostname), '/mat/TaskTable.mat'), 'RestorationTable');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 35)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',35,0)">line 35</a>)
+[GraphSystem,TotalDamage,RestorationTable,Nsystask] = Library.SampleDamage(EventType, Nsamples, NRun, Hostname, IM, IMx, IMy, ActiveSystem,
+powerGraph, commGraph, transGraph, Prob_Magic_Battery, SamplesUnifDmg, Seperate_Scheduling, InterdependencePrec);
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+Hostname
+
+Hostname =
+
+    'Output/Results0'
+
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+load('DamageScenario.mat')
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP2: Complete Sampling Damage Scenarios----
+{Undefined variable "Library" or class "Library.RestorationPlan".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 65)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',65,0)">line 65</a>)
+    [Schedule, Date] = Library.RestorationPlan(Scheduler_Num, time_horizon, RestorationResource, ...
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP2: Complete Sampling Damage Scenarios----
+{Undefined variable "Library" or class "Library.RestorationPlan".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 65)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',65,0)">line 65</a>)
+    [Schedule, Date] = Library.RestorationPlan(Scheduler_Num, time_horizon, RestorationResource, ...
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+load('DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Undefined variable "Library" or class "Library.SampleActualDuration".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m', 105)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\main.m',105,0)">line 105</a>)
+    [TotalDamage] = Library.SampleActualDuration(TotalDamage, SamplesUnifDur, isample);
+} 
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+-
+ -
+  
+{Error: Invalid expression. Check for missing or extra characters.
+} 
+load('/Output/Results0/mat/DamageScenario.mat')
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file '/Output/Results0/mat/DamageScenario.mat'. No such file or directory.
+} 
+load('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\mat\DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+load('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\mat\DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+load('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\mat\DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+load('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\mat\DamageScenario.mat')
+load('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\mat\DamageScenario.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions
+property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+a =load('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISysDemo20200713\Output\Results0\mat\DamageScenario.mat')
+
+a = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       GraphSystem: {8×1 cell}
+    DamageScenario: {8×1 cell}
+
+clear
+b = load('DamageScenario.mat')
+
+b = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       GraphSystem: {8×1 cell}
+    DamageScenario: {8×1 cell}
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+save('td.mat','TotalDamage')
+a = load('td.mat')
+
+a = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    TotalDamage: {8×1 cell}
+
+clea
+{Undefined function or variable 'clea'.
+} 
+clear
+clc
+a = load('td.mat')
+
+a = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    TotalDamage: {8×1 cell}
+
+b = a.TotalDamage{4}{1}{1}
+
+b =
+
+  1×31 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+  Columns 1 through 8
+
+    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}
+
+  Columns 9 through 16
+
+    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}
+
+  Columns 17 through 24
+
+    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}
+
+  Columns 25 through 31
+
+    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}    {1×1 Branch}
+
+b = a.TotalDamage{4}{1}{1}{1}
+
+b = 
+
+  <a href="matlab:helpPopup Branch" style="font-weight:bold">Branch</a> with properties:
+
+            Start_Location: [40.3000 -74.5000]
+              End_Location: [40.3000 -74.4333]
+                  Capacity: 500
+                       Bus: []
+             connectedObj1: 'Bus1'
+             connectedObj2: 'TransmissionTower1'
+             taskUniqueIds: []
+                    Status: 'Open'
+                  Priority: 1
+               DamageLevel: 0
+    Interdependence_Factor: []
+             Functionality: 1
+                 Fragility: [4×2 double]
+               FragilityIM: {[8]  'PGA(g)'  [0.1577]}
+            currentWorking: []
+                    Number: 1
+                      Type: 'Drake'
+               WorkingDays: []
+                 StartDate: []
+                     Class: 'Branch'
+                   EndDate: []
+                 Resources: [1 2 2 1]
+                  uniqueID: 'Branch1'
+      predecessorComponent: []
+
+DamageScenario = a.TotalDamage; save(strcat( deblank(Hostname), '/mat/ds.mat'), 'DamageScenario');
+{Undefined function or variable 'Hostname'.
+} 
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+save(strcat( deblank(Hostname), '/mat/DamageScenario.mat'), 'DamageScenario', 'GraphSystem');
+
+save(strcat( deblank(Hostname), '/mat/DamageScenario.mat'), 'DamageScenario', 'GraphSystem');
+save(strcat( deblank(Hostname), '/mat/ds.mat'), 'DamageScenario', 'GraphSystem');
+load('ds.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+load('ds.mat')
+if system_dependent('IsDebugMode')==1, dbcont; end
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+load('DamageScenario.mat', 'DamageScenario')
+clear
+clc
+load('DamageScenario.mat')
+a=load('DamageScenario.mat')
+
+a = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       GraphSystem: {8×1 cell}
+    DamageScenario: {8×1 cell}
+
+a.DamageScenario{1}{1}{1}{1}
+
+ans =
+
+     []
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+TopObject
+
+ans = 
+
+  <a href="matlab:helpPopup TopObject" style="font-weight:bold">TopObject</a> with properties:
+
+                  Number: []
+                    Type: []
+             WorkingDays: []
+               StartDate: []
+                   Class: []
+                 EndDate: []
+               Resources: [1 2 2 1]
+                uniqueID: []
+    predecessorComponent: []
+
+clear
+clc
+clc
+clear
+cc
+{'cc' requires <a href="matlab:matlab.internal.language.introspective.showAddon('RK', 'cc');">Risk Management Toolbox</a>.
+} 
+load TopObject object
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'TopObject'. No such file or directory.
+} 
+load TopObject.m object
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file TopObject.m must be the same as previous lines.
+} 
+load 'TopObject.m' object
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file TopObject.m must be the same as previous lines.
+} 
+load 'TopObject.m' 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file TopObject.m must be the same as previous lines.
+} 
+load TopObject.m
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file TopObject.m must be the same as previous lines.
+} 
+load TopObject
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'TopObject'. No such file or directory.
+} 
+load('TopObject.m')
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file TopObject.m must be the same as previous lines.
+} 
+help inputname
+ <strong>inputname</strong> Input argument name.
+    Inside the body of a user-defined function, <strong>inputname</strong>(ARGNO)
+    returns the caller's workspace variable name corresponding to 
+    the argument number ARGNO.  If the input has no name, for example,
+    when it is the result of a calculation or an expression such as,
+    a(1), varargin{:}, eval(expr), etc, then <strong>inputname</strong> returns an
+    empty character vector.
+ 
+    Example: Suppose the function myfun is defined as:
+      function y = myfun(a,b)
+      disp(sprintf('My first input is "%s".' ,inputname(1)))
+      disp(sprintf('My second input is "%s".',inputname(2)))
+      y = a+b;
+    then
+      x = 5; myfun(x,5)
+    produces
+      My first input is "x".
+      My second input is "".
+ 
+    See also <a href="matlab:help nargin">nargin</a>, <a href="matlab:help nargout">nargout</a>, <a href="matlab:help narginchk">narginchk</a>, <a href="matlab:help nargoutchk">nargoutchk</a>, <a href="matlab:help mfilename">mfilename</a>.
+
+    <a href="matlab:doc inputname">Reference page for inputname</a>
+
+loadobj
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('loadobj')" style="font-weight:bold">loadobj</a>
+Not enough input arguments.
+} 
+help loadobj
+ <strong>loadobj</strong> Load filter for objects.
+    B = <strong>loadobj</strong>(A) is called by LOAD when an object is loaded from a .MAT
+    file. The return value B is subsequently used by LOAD to populate the
+    workspace.  <strong>loadobj</strong> can be used to convert one object type into
+    another, to update an object to match a new object definition, or to
+    restore an object that maintains information outside of the object
+    array.
+ 
+    If the input object does not match the current definition (as defined
+    by the constructor function), the input will be a struct-ized version
+    of the object in the .MAT file.  All the information in the original
+    object will be available for use in the conversion process.
+ 
+    <strong>loadobj</strong> will be separately invoked for each object in the .MAT file.
+ 
+    <strong>loadobj</strong> can be overloaded only for user objects.  LOAD will not call
+    <strong>loadobj</strong> for a built-in datatype (such as double) even if @double/loadobj 
+    exists.
+ 
+    See also <a href="matlab:help load">load</a>, <a href="matlab:help saveobj">saveobj</a>.
+
+    <a href="matlab:doc loadobj">Reference page for loadobj</a>
+    <a href="matlab:matlab.internal.language.introspective.overloads.displayOverloads('loadobj')">Other functions named loadobj</a>
+
+B = loadobj(DamageScenario)
+{Undefined function or variable 'DamageScenario'.
+} 
+B = loadobj(DamageScenario.mat)
+{Undefined variable "DamageScenario" or class "DamageScenario.mat".
+} 
+B = loadobj('DamageScenario.mat')
+
+B =
+
+    'DamageScenario.mat'
+
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions property.] 
+Input Setting: Set up an Earthquake hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The original names are saved in the VariableDescriptions property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+st
+
+st =
+
+  4×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'EPP1'}
+    {'EPP2'}
+    {'EPP3'}
+    {'EPP4'}
+
+structuraltype
+{Undefined function or variable 'structuraltype'.
+} 
+structualtype
+
+structualtype =
+
+    'EPP1'
+
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+structuraltype
+
+structuraltype =
+
+    'EPP1'
+
+st
+
+st =
+
+  4×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'EPP1'}
+    {'EPP2'}
+    {'EPP3'}
+    {'EPP4'}
+
+idx_st
+
+idx_st =
+
+     1
+
+idx_im
+
+idx_im =
+
+     8
+
+IMmeta
+
+IMmeta =
+
+  1×10 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+  Columns 1 through 6
+
+    {'Distance(km)'}    {'Sa(0.3second)(g)'}    {'Sa(1.0second)(g)'}    {'Sd(1.0second)(i…'}    {'Sd(0.3second)(i…'}    {'Sv(0.3second)(i…'}
+
+  Columns 7 through 10
+
+    {'Sv(1.0second)(i…'}    {'PGA(g)'}    {'PGV(inch/second)'}    {'PGD(inch)'}
+
+im
+
+im =
+
+  1×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'PGA(g)'}
+
+idx_im
+
+idx_im =
+
+     8
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+st
+
+st =
+
+  6×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'ESS1'}
+    {'ESS2'}
+    {'ESS3'}
+    {'ESS4'}
+    {'ESS5'}
+    {'ESS6'}
+
+structuraltype
+
+structuraltype =
+
+    'Nuclear'
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+st
+
+st =
+
+  4×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'EPP1'}
+    {'EPP2'}
+    {'EPP3'}
+    {'EPP4'}
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+st
+
+st =
+
+  4×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'EPP1'}
+    {'EPP2'}
+    {'EPP3'}
+    {'EPP4'}
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+help obj
+obj is a variable of type char.
+
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+if system_dependent('IsDebugMode')==1, dbcont; end
+jj
+
+jj =
+
+     1
+
+set{jj}.FragilityIM
+
+ans =
+
+     []
+
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+ii
+
+ii =
+
+     1
+
+Bridge{ii}.HasSub
+
+ans =
+
+     0
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+strFull
+
+strFull =
+
+    'LibraryFragility\fragility_earthquake_Bridge.mat'
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+st
+
+st =
+
+  28×1 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    {'HWB1' }
+    {'HWB2' }
+    {'HWB3' }
+    {'HWB4' }
+    {'HWB5' }
+    {'HWB6' }
+    {'HWB7' }
+    {'HWB8' }
+    {'HWB9' }
+    {'HWB10'}
+    {'HWB11'}
+    {'HWB12'}
+    {'HWB13'}
+    {'HWB14'}
+    {'HWB15'}
+    {'HWB16'}
+    {'HWB17'}
+    {'HWB18'}
+    {'HWB19'}
+    {'HWB20'}
+    {'HWB21'}
+    {'HWB22'}
+    {'HWB23'}
+    {'HWB24'}
+    {'HWB25'}
+    {'HWB26'}
+    {'HWB27'}
+    {'HWB28'}
+
+structualtype
+
+structualtype =
+
+    'HWB3'
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+k
+
+k =
+
+     2
+
+idx_im
+
+idx_im =
+
+     3    10
+
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up a Hurricane hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+iter
+
+iter =
+
+    11
+
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up a Hurricane hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+Input Setting: Set up a Hurricane hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+main
+Input Setting: Set up a Hurricane hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit all; end
+main
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The
+original names are saved in the VariableDescriptions property.] 
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The
+original names are saved in the VariableDescriptions property.] 
+Input Setting: Set up a Hurricane hazard scenario.
+[Warning: Table variable names were modified to make them valid MATLAB identifiers. The
+original names are saved in the VariableDescriptions property.] 
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+Library.assignObjectFragilityWind Error: StructuralType=EPP1StructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=NuclearStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=Steel Lattice TowerStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=CTPStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=CTPStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=CTPStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=CTPStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=CTPStructuralType is not included in the fragility library.
+Library.assignObjectFragilityWind Error: StructuralType=CTPStructuralType is not included in the fragility library.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =83[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =83[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =82[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =82[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =86[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =86[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =85[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =85[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =83[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =83[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =83[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =83[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =88[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =88[i.e., t =196].
+
+msg =
+
+    'Function Recovery Warning: QTrans < 100% at indtrack =80[i.e., t =196].'
+
+Function Recovery Warning: QTrans < 100% at indtrack =80[i.e., t =196].
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+Library.assignFragility Error: The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+Library.assignFragility Error: The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+----STEP1: Complete Reading Input Data----
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISys20200816_Github\main.m', 23)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISys20200816_Github\main.m',23,0)">line 23</a>)
+stopVariable = get(app.StopButton, 'Enable');
+} 
+
+ans =
+
+   149
+
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+Library.assignFragility Error: The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+Library.assignFragility Error: The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+----STEP1: Complete Reading Input Data----
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISys20200816_Github\main.m', 23)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('H:\Sun Backup\Work ATLSS\PRAISysTest\PRAISys20200816_Github\main.m',23,0)">line 23</a>)
+stopVariable = get(app.StopButton, 'Enable');
+} 
+
+ans =
+
+   149
+
+Input Setting: Set up an Earthquake hazard scenario.
+Input Setting: Sub-Object Anlysis is Turned OFF.
+Input Setting: Pseudo-randomness is turned ON. The random seed is set as "123".
+Input Setting: The Delay Effect is turned ON, with Qtrans0=0.8.
+Input Setting: Inter-system Functionality Dependency is turned OFF.
+Input Setting: Inter-system Precedence Dependency is turned OFF.
+Library.assignFragility Error: The structure type cannot be found in the fragility file (LibraryFragility) forSubstation1. The first one in the structure type list in the fragility file is used to continue the computation.
+----STEP1: Complete Reading Input Data----
+----Function SampleDamage: Finish Sampling DamageSample #1----
+----Function SampleDamage: Finish Sampling DamageSample #2----
+----Function SampleDamage: Finish Sampling DamageSample #3----
+----Function SampleDamage: Finish Sampling DamageSample #4----
+----Function SampleDamage: Finish Sampling DamageSample #5----
+----Function SampleDamage: Finish Sampling DamageSample #6----
+----Function SampleDamage: Finish Sampling DamageSample #7----
+----Function SampleDamage: Finish Sampling DamageSample #8----
+----STEP2: Complete Sampling Damage Scenarios----
+----STEP3: Complete Developing Restoration Plans----
+----Function SampleActualDuration: Finish Sampling DurationSample No.1----
+----Function SampleActualDuration: Finish Sampling DurationSample No.2----
+----Function SampleActualDuration: Finish Sampling DurationSample No.3----
+----Function SampleActualDuration: Finish Sampling DurationSample No.4----
+----Function SampleActualDuration: Finish Sampling DurationSample No.5----
+----Function SampleActualDuration: Finish Sampling DurationSample No.6----
+----Function SampleActualDuration: Finish Sampling DurationSample No.7----
+----Function SampleActualDuration: Finish Sampling DurationSample No.8----
+----Finished Sample No.1 [meaning DamageSample #1 and DurationSample #1]-----
+----Finished Sample No.2 [meaning DamageSample #1 and DurationSample #2]-----
+----Finished Sample No.3 [meaning DamageSample #1 and DurationSample #3]-----
+----Finished Sample No.4 [meaning DamageSample #1 and DurationSample #4]-----
+----Finished Sample No.5 [meaning DamageSample #2 and DurationSample #1]-----
+----Finished Sample No.6 [meaning DamageSample #2 and DurationSample #2]-----
+----Finished Sample No.7 [meaning DamageSample #2 and DurationSample #3]-----
+----Finished Sample No.8 [meaning DamageSample #2 and DurationSample #4]-----
+----STEP4: Complete the Recovery Process----
+----STEP5: Complete the Resilience Assessment----

@@ -1,0 +1,10 @@
+Communication line ID,Communication Line Node 1,Communication Line Node 2,Type
+1,CommunicationTower1,CentralOffice1,Optical Fiber
+2,CentralOffice1,CommunicationTower2,Optical Fiber
+3,CentralOffice1,CommunicationTower3,Optical Fiber
+4,CommunicationTower2,CentralOffice3,Optical Fiber
+5,CentralOffice2,CommunicationTower3,Optical Fiber
+6,CommunicationTower3,CentralOffice3,Cable
+7,CommunicationTower4,CentralOffice2,Cable
+8,CentralOffice3,CommunicationTower6,Waveguide
+9,CentralOffice2,CommunicationTower5,Waveguide

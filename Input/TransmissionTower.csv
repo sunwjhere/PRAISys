@@ -1,0 +1,6 @@
+Transmission tower ID,Latitude,Longitude,Tower Name,Structural type,Height (m),BranchID
+1,40.3,-74.3,TransmissionTower1,H Frame,80,1
+2,40.1,-74.5,TransmissionTower2,Lattice,100,2
+3,40.15,-74.1,TransmissionTower3,Monopole,40,3
+4,39.9,-74.3,TransmissionTower4,Lattice,90,4
+5,40,-74.4,TransmissionTower5,Monopole,36,5

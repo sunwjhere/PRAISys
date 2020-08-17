@@ -1,0 +1,2 @@
+Power plant ID,Name,Latitude ,Longitude,Fuel type,Generation capacity (MW),Generation status (1-on/0-off),Generation cost ($/MWh),TotalPop,TotalHH
+1,PowerPlant,40.3,-74.5,Nuclear,2242,1,96.2,18000,9000
